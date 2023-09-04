@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c62d04b-97e2-4eca-8cf3-c1e7ea16aead" name="Changes" comment="hw_2 done">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arch2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/inmemory/IModelChanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/inmemory/ModelChangedObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/inmemory/ModelStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/inmemory/Observer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/inmemory/Observer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Angle3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Flash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Poligon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/PoligonalModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Scene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem_1/store3D/models/Texture.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UXNwxI1rvzZatFEpIqjtVaL4vJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GB\Architecture2\Arch2\src\hw_2" />
+      <recent name="D:\GB\Architecture2\Arch2\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hw_3" />
+      <recent name="sem_1.store3D.models" />
+      <recent name="hw_1.model_elements" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hw_3.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_1.store3D.Program" />
+      <module name="Arch2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem_1.store3D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_1.Start" />
+      <module name="Arch2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw_2.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_2.Start" />
+      <module name="Arch2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw_3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_3.Program" />
+      <module name="Arch2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hw_3.Program" />
+        <item itemvalue="Application.hw_2.Start" />
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c62d04b-97e2-4eca-8cf3-c1e7ea16aead" name="Changes" comment="" />
+      <created>1693082221091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693082221091</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1693082318423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693082318423</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw_1 done">
+      <created>1693090079156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693090079156</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw_2 done">
+      <created>1693510393253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693510393253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="hw_1 done" />
+    <MESSAGE value="hw_2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_2 done" />
+  </component>
+</project>
