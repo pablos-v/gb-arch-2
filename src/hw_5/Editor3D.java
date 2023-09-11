@@ -59,6 +59,15 @@ class Editor3D implements UILayer {
     }
 
     @Override
+    public void deleteModel(Entity entity) {
+        // Предусловие
+        checkProjectFile();
+
+        database.delete(entity);
+        System.out.println("Модель удалена.");
+    }
+
+    @Override
     public void printAllModels() {
 
         // Предусловие

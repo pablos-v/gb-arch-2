@@ -28,6 +28,11 @@ class EditorDatabase implements Database {
         //TODO: Сохранение текущего состояния всех сущностей проекта
     }
 
+    @Override
+    public void delete(Entity entity) {
+        //TODO: Удаление сущности из БД
+    }
+
     public Collection<Entity> getAll() {
         if (entities == null) {
             entities = new ArrayList<>();

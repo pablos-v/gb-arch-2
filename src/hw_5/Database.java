@@ -10,5 +10,7 @@ interface Database {
 
     void save();
 
+    void delete(Entity entity);
+
     Collection<Entity> getAll();
 }
