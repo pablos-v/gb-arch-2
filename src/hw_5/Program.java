@@ -31,6 +31,7 @@ public class Program {
             System.out.println("5. Отобразить все текстуры проекта");
             System.out.println("6. Выполнить рендер всех моделей");
             System.out.println("7. Выполнить рендер модели");
+            System.out.println("8. Удалить модель");
             System.out.println("0. ЗАВЕРШЕНИЕ РАБОТЫ ПРИЛОЖЕНИЯ");
             System.out.print("Пожалуйста, выберите пункт меню: ");
             if (scanner.hasNextInt()) {
@@ -58,6 +59,16 @@ public class Program {
                                 int modelNo = scanner.nextInt();
                                 scanner.nextLine();
                                 editor3D.renderModel(modelNo);
+                            } else {
+                                System.out.println("Номер модели указан некорректно.");
+                            }
+                        }
+                        case 8 -> {
+                            System.out.print("Укажите номер модели: ");
+                            if (scanner.hasNextInt()) {
+                                int modelNo = scanner.nextInt();
+                                scanner.nextLine();
+                                editor3D.deleteModel(modelNo);
                             } else {
                                 System.out.println("Номер модели указан некорректно.");
                             }

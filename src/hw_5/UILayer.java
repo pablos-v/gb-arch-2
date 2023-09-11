@@ -10,7 +10,7 @@ interface UILayer {
     void showProjectSettings();
 
     void saveProject();
-    void deleteModel(Entity entity);
+    void deleteModel(int i);
 
     void printAllModels();
 
