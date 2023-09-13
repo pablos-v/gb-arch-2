@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c62d04b-97e2-4eca-8cf3-c1e7ea16aead" name="Changes" comment="hw_5 init">
+    <list default="true" id="1c62d04b-97e2-4eca-8cf3-c1e7ea16aead" name="Changes" comment="hw_5 corrected">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_5/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_5/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_5/Editor3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_5/Editor3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_5/EditorDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_5/EditorDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw_5/UILayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_5/UILayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/GB/Architecture2/Arch2/src",
+    "last_opened_file_path": "D:/d-loads/lesson6",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -64,13 +60,13 @@
       <recent name="hw_1.model_elements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hw_5.Program">
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw_1.Start" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw_6.Program" />
       <module name="Arch2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw_1.*" />
+          <option name="PATTERN" value="hw_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.hw_5.Program" />
         <item itemvalue="Application.hw_4.Program" />
         <item itemvalue="Application.hw_3.Program" />
         <item itemvalue="Application.hw_2.Start" />
-        <item itemvalue="Application.Start" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694438298893</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hw_5 done">
+      <created>1694444420705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694444420705</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hw_5 corrected">
+      <created>1694444820861</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694444820861</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +222,8 @@
     <MESSAGE value="hw_3 done" />
     <MESSAGE value="hw_4 done" />
     <MESSAGE value="hw_5 init" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_5 init" />
+    <MESSAGE value="hw_5 done" />
+    <MESSAGE value="hw_5 corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_5 corrected" />
   </component>
 </project>
