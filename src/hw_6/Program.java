@@ -13,6 +13,11 @@ public class Program {
         NotesController controller = new NotesController(
                 new ConcreteNoteEditor(new NotesDbContext(new NotesDatabase()), new NotesConsolePresenter()));
         controller.routeGetAll();
+
+        controller.routeRemoveNote(controller.returnLastNote());
+
+        System.out.println("*******************");
+        controller.routeGetAll();
     }
 
 }

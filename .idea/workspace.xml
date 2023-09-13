@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c62d04b-97e2-4eca-8cf3-c1e7ea16aead" name="Changes" comment="hw_5 corrected">
+    <list default="true" id="1c62d04b-97e2-4eca-8cf3-c1e7ea16aead" name="Changes" comment="hw_6 init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arch2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arch2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_6/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_6/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_6/notes/infrastructure/persistance/NotesDbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_6/notes/infrastructure/persistance/NotesDbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_6/notes/presentation/queries/controllers/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_6/notes/presentation/queries/controllers/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw_6/notes/presentation/queries/controllers/NotesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw_6/notes/presentation/queries/controllers/NotesController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694444820861</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hw_6 init">
+      <created>1694643180408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694643180408</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +237,7 @@
     <MESSAGE value="hw_5 init" />
     <MESSAGE value="hw_5 done" />
     <MESSAGE value="hw_5 corrected" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_5 corrected" />
+    <MESSAGE value="hw_6 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_6 init" />
   </component>
 </project>

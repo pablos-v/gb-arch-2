@@ -11,12 +11,24 @@ import java.util.Collection;
 
 public class NotesDbContext extends DbContext implements NotesDatabaseContext {
 
+    private Collection<Note> notesList;
 
     @Override
     public Collection<Note> getAll() {
+        if (this.notesList == null) {
+            this.notesList = creator();
+        }
+        return this.notesList;
+    }
+
+    public NotesDbContext(Database database) {
+        super(database);
+    }
+
+    private Collection<Note> creator() {
         Collection<Note> notesList = new ArrayList<>();
         //TODO: Этого кастинга быть не должно, тут должен работать внутренний механизм фреймворка
-        for (NotesRecord record : ((NotesDatabase)database).getNotesTable().getRecords()){
+        for (NotesRecord record : ((NotesDatabase) database).getNotesTable().getRecords()) {
             notesList.add(new Note(
                     record.getId(),
                     record.getUserId(),
@@ -26,10 +38,6 @@ public class NotesDbContext extends DbContext implements NotesDatabaseContext {
             ));
         }
         return notesList;
-    }
-
-    public NotesDbContext(Database database) {
-        super(database);
     }
 
     @Override

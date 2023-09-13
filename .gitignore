@@ -31,4 +31,5 @@ bin/
 
 /.idea/*
 /out/
-Arch2.iml
+/Arch2.iml
+/.idea/
